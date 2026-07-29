@@ -1,0 +1,6 @@
+Model Type: Random Forest
+F1 Score: 0.8669
+Accuracy: 0.9607
+Recall: 0.8403
+Precision: 0.8952
+Run ID: b56f31f5eb6b4f86aa1c0f5aac3cede7
